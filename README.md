@@ -17,5 +17,5 @@ If you would like to download data from other maps, more maps can be found at ht
 2. Run train_autoencoder.py. $python train_autoencoder.py
 
 
-
+## References
 [1] An, Jinwon, and Sungzoon Cho. "Variational autoencoder based anomaly detection using reconstruction probability." Special Lecture on IE 2.1 (2015): 1-18, http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf.
